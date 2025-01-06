@@ -1,1 +1,1 @@
-add from git to vs code
+add from vs code to vs git
